@@ -1,2 +1,3 @@
 Primeiro Projeto feito usando o GitHub
-Agr Estou editando no meu Repositório local :p
+Agr Estou editando no meu RepositÃ³rio local :p
+Agr estou somente revisando os comandos do git no caso o de agr eu quero usar o pull
