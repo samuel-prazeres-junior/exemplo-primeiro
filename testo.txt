@@ -4,3 +4,4 @@ Agr estou somente revisando os comandos do git no caso o de agr eu quero usar o 
 Revisando pull novamente
 Agr estou testando o push
 testando o pull novamente
+Testando o comando push novamente
